@@ -3,8 +3,6 @@
 _Updated: 2026-07-27_  
 _Total references: 33_
 
-This page is generated from the course reference note in the Obsidian course database. It is intended as a teaching-oriented bibliography for course preparation, student guidance, and research-informed instruction.
-
 ## Summary
 
 | Category | Count |
