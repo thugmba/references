@@ -37,106 +37,106 @@ This page is generated from the course reference note in the Obsidian course dat
    - Teaching use: Demonstrates how machine learning and ChatGPT can map AI-in-business research themes for analytics project scoping.
 
 
-7. *Managing with artificial intelligence: An integrative framework.* Hillebrand, L., Raisch, S., & Schad, J. (2025). *Academy of Management Annals*. https://doi.org/10.5465/annals.2022.0072
+7. *Managing with artificial intelligence: An integrative framework.* Hillebrand, L., Raisch, S., & Schad, J. (2025). *Academy of Management Annals*. <https://doi.org/10.5465/annals.2022.0072>
    - Teaching use: AI as organizational capability; managerial judgment, decision-making, and organizational design.
 
-8. *AI management beyond myth and hype: A systematic review and synthesis of the literature.* Koukouvinou, P., & Holmström, J. (2024). *Pacific Asia Journal of the Association for Information Systems*. https://aisel.aisnet.org/pajais/vol16/iss2/1/
+8. *AI management beyond myth and hype: A systematic review and synthesis of the literature.* Koukouvinou, P., & Holmström, J. (2024). *Pacific Asia Journal of the Association for Information Systems*. <https://aisel.aisnet.org/pajais/vol16/iss2/1/>
    - Teaching use: AI management constructs, research boundaries, socio-technical framing.
 
-9. *What determines AI adoption in companies? Mixed-method evidence.* Polisetty, A., Chakraborty, D., Gupta, S., & Kar, A. K. (2024). *Journal of Computer Information Systems*. https://doi.org/10.1080/08874417.2023.2219668
+9. *What determines AI adoption in companies? Mixed-method evidence.* Polisetty, A., Chakraborty, D., Gupta, S., & Kar, A. K. (2024). *Journal of Computer Information Systems*. <https://doi.org/10.1080/08874417.2023.2219668>
    - Teaching use: Organizational readiness, perceived value, and adoption determinants.
 
-10. *Addressing bias in generative AI: Challenges and research opportunities in information management.* Wei, X., Kumar, N., & Zhang, H. (2025). *Information & Management*. https://www.sciencedirect.com/science/article/pii/S0378720625000060
+10. *Addressing bias in generative AI: Challenges and research opportunities in information management.* Wei, X., Kumar, N., & Zhang, H. (2025). *Information & Management*. <https://www.sciencedirect.com/science/article/pii/S0378720625000060>
    - Teaching use: Generative AI bias as an information-management and business-process risk.
 
 ## Articles and Reports
 
 
-1. *Cigna expands AI-backed care management to reach members earlier in treatment.* *Hartford Business Journal*. <https://news.google.com/rss/articles/CBMitgFBVV95cUxPOC02cElJMzNiaGNtZ1NfRE0wSHZCbUJPN2RTY2VTZHFRSFpjSFIyaFpETkI5N3EwdGZqUEdRTG5VbXJ5WHpxTE0wR0RvaUMtWmdObGYyc1lMREJWbFBBVkhjMDl1a1VLb3dYcWpCQXkteEZBTWppaFZvZGVFV0VENnJfNG1CREdJcnVPMTI4RnY1cWZpWV9JRVZnNnlBaFFSYUhQbGdJcEJCWERQVDBmNVpmM2wzQQ?oc=5>
+1. *Cigna expands AI-backed care management to reach members earlier in treatment.* *Hartford Business Journal*. <https://hartfordbusiness.com/article/cigna-expands-ai-backed-care-management-to-reach-members-earlier-in-treatment/>
    - Teaching use: Directly supports Module 4 AI applications in business decision-making by providing a current healthcare analytics case on earlier intervention, operational decision support, and responsible care-workflow integration.
 
 
-2. *AI and Automation Are Reshaping Revenue Cycle Management.* *Healthcare IT Today*. <https://news.google.com/rss/articles/CBMipAFBVV95cUxPZmZmSTMtV0UwTmsyX0hIRGt1NlIzYjhWU0lRUDd2RnJmWDdVWjBVdTEyOGluMkEwYldOU1dHUTlhRGg5Wl9HWWhoOEFkTWRhcDdLWUJkbWdjQUpfTUFFQWdTdmhpQ0JNNUcwem5LdWdWTlBxS0FrY05NMXR5MzQyYU1oZFV2Mkd0a2M1VEpXYTNuSmQyWG80RDFfek0xb0dLamFHdw?oc=5>
+2. *AI and Automation Are Reshaping Revenue Cycle Management.* *Healthcare IT Today*. <https://www.healthcareittoday.com/2026/07/23/ai-and-automation-are-reshaping-revenue-cycle-management/>
    - Teaching use: Directly supports Module 4 business integration by giving students a current healthcare operations case for analyzing AI automation, process data, and decision-support impacts in revenue-cycle workflows.
 
-3. *AI, racial bias and the imperative for equitable technology.* *Health Data Management*. <https://news.google.com/rss/articles/CBMipwFBVV95cUxNUk1naVFrMnpIazVjdV9PLTR1WDE4UWJvOXlkNXp1ZnRTXzVDUDNUYUJXQUVPcmRtYW1YdkpmbHVvMF9HUktLMjhncXZCd1RjV3FDcFh5WTJyR1lsd3FEWWtTaWtfdzAxZHBfbVM2Rmt4eDVHdkY3dGlTYWF3ZHVXcEZRc1ZmaEZmVzZDdkxzUjJIbDNoY2dPdmpIM1hLX21NcHJWYkM5NA?oc=5>
+3. *AI, racial bias and the imperative for equitable technology.* *Health Data Management*. <https://www.healthdatamanagement.com/articles/ai-racial-bias-and-the-imperative-for-equitable-technology>
    - Teaching use: Directly supports Module 4 ethical AI and risk management by providing a current domain case for discussing bias, equity, and responsible evaluation of AI applications in health data settings.
 
 
-4. *When Employees Are Held Accountable for AI-Generated Decisions.* *Harvard Business Review*. <https://news.google.com/rss/articles/CBMijwFBVV95cUxPTVJvZnFWVk5NX2U3TlZWUTVDWlBYQ0wzYW9DM1hhbUQyZjlTdWdvUk5lelQtNFFXcWlmUEVKN05OSVpnWEROYXVUbVUxYWpESHdCUDlrNW96TnNVZlVYV2M4VkZnQnNfdzdzYjNsMGprZXY3VDlVRjBZNVhIenFHNWkxeUtoYlpxQ1pZQjBBYw?oc=5>
+4. *When Employees Are Held Accountable for AI-Generated Decisions.* *Harvard Business Review*. <https://hbr.org/2026/07/when-employees-are-held-accountable-for-ai-generated-decisions>
    - Teaching use: Directly supports Module 4 risk management and ethical AI by focusing student discussion on accountability boundaries, decision quality, and human review when AI applications influence business decisions.
 
 
-5. *Would you bet your AI strategy on your current data? Why governance is key.* *Wolters Kluwer*. <https://news.google.com/rss/articles/CBMivwFBVV95cUxNTzRTLXpUeDE2NTRpZG9xVHBjdFBIV2tYRkItN2dKbDJ5UENlOS1xQnhtSnpJTU9xd1FGVTg1VW5lT0JPeVpkWTluUTEwdkNWdE9BUGtYc3l2T1VHYk9YRGVOUWNaR05lVGtDSnU3czJFLU1jUjN4NW5pYW96cW0wdjRVdHJ4MDQ3VEJQTTFGeDZ0bTlubC1OWjRXYWpGOVI0Z0V6Sk9FT0d2WDZiTTJaU05LM05vdE10Mklic0JuWQ?oc=5>
+5. *Would you bet your AI strategy on your current data? Why governance is key.* *Wolters Kluwer*. <https://www.wolterskluwer.com/en/expert-insights/would-you-bet-your-ai-strategy-on-your-current-data-why-governance-is-key>
    - Teaching use: Directly supports Modules 1, 2, and 4 by connecting data quality and governance to reliable AI applications, risk management, and business decision-making.
 
-6. *Responsible AI Is Becoming a Growth Strategy.* *Harvard Business Review*. <https://news.google.com/rss/articles/CBMid0FVX3lxTFBoeC1nbEZrazRGclM2aWFrbTZzNkV6WjkyZEVmVFRrYXhvWWtTVDZSM2V6SDZPem02UjcwR3pHWGhBZVBQMUtDN3RIR2FhSllRTTdGMTBHZERXMWFzUUtHNnVZeFhqa1RqUExNdnFMRU9fVS1RTXdn?oc=5>
+6. *Responsible AI Is Becoming a Growth Strategy.* *Harvard Business Review*. <https://hbr.org/2026/07/responsible-ai-is-becoming-a-growth-strategy>
    - Teaching use: Directly supports Module 4 ethical AI by framing responsible AI as a measurable business-value and growth issue rather than only a compliance requirement.
 
 
-7. *The Dawn of AI Change-Control.* *Communications of the ACM*. <https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1hOFRsVVV5YV9Tald4akJTQm9xSzZ1c21hd1ViNDQ5S05aN3BQWXdHcFItNGlTMUw3UUZYbFY4Z0NDcjRNZ2lxYnp2MzFCTktwMThVbXhYeUJFR3hsRy01SUs3di1uOU0?oc=5>
+7. *The Dawn of AI Change-Control.* *Communications of the ACM*. <https://cacm.acm.org/news/the-dawn-of-ai-change-control/>
    - Teaching use: Directly supports Module 4 AI project risk management by framing AI system updates, controls, and deployment changes as governance issues that affect reliable business analytics applications.
 
 
-8. *Place, process, protect: the three rules of world-class AI data management.* *TechRadar*. <https://news.google.com/rss/articles/CBMiowFBVV95cUxOQy0tRUpkMGtEeDZnNTlBNGlIekY2S1BYLWwxQnNTUElfektSOFZKdDZBZmdlSlZIVl9mMWFQUHZ4UnhBNHBqd0dRZDQ2OEwzVnpsZS1GR2VlYWpzRE9sdm9UbGZKYi1IUTZENVIwUUFSVHJodmZsNF9iRXQ0cFBhT1h0NHJUQVctMFJEV1lzdHYwVWR2NGtscUNqUWVLeXJUMFo0?oc=5>
+8. *Place, process, protect: the three rules of world-class AI data management.* *TechRadar*. <https://www.techradar.com/pro/place-process-protect-the-three-rules-of-world-class-ai-data-management>
    - Teaching use: Directly supports Module 1 data collection, Module 2 data cleaning, and Module 4 AI project risk management by framing data placement, processing, and protection as prerequisites for reliable business AI applications.
 
-9. *Trust and assurance: the key to scaling AI deployments.* *TMForum - Inform*. <https://news.google.com/rss/articles/CBMirwFBVV95cUxPUmhuSkJJQm1kWXhNcFZNclJXcERPQlBKdWpjYUY0MnBSYUZqNnpiWGNNSWpqM1RGb0owbnhiQ1dXTm51aUZOWElUUXdMU3VMRUJ4bnVkUnlaYldfUHMzR2JBLURBWkladUVrT2lrakJqV0tQOEdRS21oM2dFbmUzWkNLazgwNW5tV21TdTFLRVVOLTl5TmNwQVJKVnhISWdaQXBpSjF6bzJEb1lfSjhN?oc=5>
+9. *Trust and assurance: the key to scaling AI deployments.* *TMForum - Inform*. <https://inform.tmforum.org/research-and-analysis/reports/trust-and-assurance-the-key-to-scaling-ai-deployments>
    - Teaching use: Fits Module 4 business integration and ethical AI by giving students a practitioner reference on assurance, trust, and deployment controls needed when moving AI applications beyond pilots.
 
 
-10. *ISO 42001: Understanding AI governance for everyday people as it becomes practical work.* *Spiceworks*. <https://news.google.com/rss/articles/CBMiuAFBVV95cUxNdzBvQTZnZkNycGtHZWRkV3Aza01jT3RjUi1LMk9rNWtQaU1iNFAxcEJ2VlpSLXVFT0thRWpJQkg1V042QmhiakpHZDVnMlhaaHlYaHB1eE5QQjBkMXkzWURRWTFhUDdxSnpYZnpJSEFvMzlyMFBQX2FMSjJsYWhYcXM0cG5MamUxV2VONzFzMWoyQWlfR25hOGFkdVFPMHl0dENKdFlWRFFmMkZsZEotcll1LWx0T24y?oc=5>
+10. *ISO 42001: Understanding AI governance for everyday people as it becomes practical work.* *Spiceworks*. <https://www.spiceworks.com/ai/iso-42001-understanding-ai-governance-for-everyday-people-as-it-becomes-practical-work/>
    - Teaching use: Directly supports Module 4 risk management and ethical AI by giving students a practical governance-standard reference for translating responsible AI principles into AI-project controls.
 
 
-11. *From fragmented negotiations to coordinated negotiation performance: an AI-enabled approach.* *Supply Chain Management Review*. <https://news.google.com/rss/articles/CBMiuwFBVV95cUxNMTlKTm05ZkI1ZUZJNzZfQ01pNGYzUlpsWTd1R29RYzlkT3p5RFM1TFBlRWpyQ3RYdGs0Vk1BZHQwRzJkV2NRZG9lM242eGk3dkh6dUd6TEJGRHFEQkNnNzRudkhDVVJkY1RIaGdtY0JWNnRaRE5lR1BJWVk2bHdEam01bjNKLVdSS0VHbW45SzFia2xjT3drRTdpZDA0YlZHMlVLekppN3JzbGVkZmNRdk5YQmxlbl9pajNF?oc=5>
+11. *From fragmented negotiations to coordinated negotiation performance: an AI-enabled approach.* *Supply Chain Management Review*. <https://www.scmr.com/article/from-fragmented-negotiations-to-coordinated-negotiation-performance-an-ai-enabled-approach>
    - Teaching use: Supports Module 4 business integration by showing how AI-enabled coordination can turn fragmented procurement or supply-chain negotiation data into measurable negotiation-performance improvement.
 
 
-12. *Forrester: Managing supply chain volatility with agentic AI.* *Computer Weekly*. <https://news.google.com/rss/articles/CBMingFBVV95cUxPZEI0NC1mY2hmTG9wVzlnZzRIZndMTzJmRGMybDhEdkpKWFFESXpzMGh6X0FvU3J0QWdUcWhKakllclh4QmpkR0lxUUpzUUQ2X1pzcTBUQXNLTHFqRkRSRHJSS1poR1ZXanVxN282U1hmTXpXZFJKWDVaeklUXzNmZTF0R1RfN3hCNXVmMUl6R0ZZVVFzNWgwVXdKOUlWZw?oc=5>
+12. *Forrester: Managing supply chain volatility with agentic AI.* *Computer Weekly*. <https://www.computerweekly.com/feature/Forrester-Managing-supply-chain-volatility-with-agentic-AI>
    - Teaching use: Supports Module 4 business integration by giving students a current operations case on using agentic AI for supply-chain volatility, decision support, and risk-aware process management.
 
-13. *7 Ways AI TMS Platforms Optimize Heavy Equipment Supply Chains.* *Global Trade Magazine*. <https://news.google.com/rss/articles/CBMimgFBVV95cUxNbVZudkp4SlBrQm1sRGZqODlOQTN0Q0syRU5XLXk4SlVzaVdaaTFSdi1JdFIzdlJFRlIxTFdSWHltc3NlWGJTZDZ6b1VyY2pmTkJJUVc3V0VzdDRtRzlxckVNTFd4eGNpQVdwUE5uMVBNYWgwRW1IN3F0a2F5NUlfNXBmV09EbkI4MER3a3F0Mk5TWWpsUS11akZn?oc=5>
+13. *7 Ways AI TMS Platforms Optimize Heavy Equipment Supply Chains.* *Global Trade Magazine*. <https://www.globaltrademag.com/7-ways-ai-tms-platforms-optimize-heavy-equipment-supply-chains/>
    - Teaching use: Fits the course’s business analytics and AI-application focus by illustrating AI-enabled transportation management, operational data flows, and supply-chain optimization as practical decision-support use cases.
 
 
-14. *Crunchtime Connects AI, Kitchen Automation and Restaurant Operations Management at Scale.* *Restaurant Technology News*. <https://news.google.com/rss/articles/CBMizgFBVV95cUxNOGFFV1N0WFRraGlKNUMtWlJPRW9Kc1JIQlBuSE9nQkhTelptZGJ4aGpBbFFWcm9MQlZjRW9Rb0ZmbjVBMkRrYkpVdGFTa09GQnVfYWhodEIwT0xsU0hvUDlDcWpLTDFLcm9DM29WRzZjTGkxZ3lUM1pVa1Qyd3hLamlWTmVWckloWTdvWjF2M183M1dKMmllRXJGMUV5ektyUkN3VjA4QnQ2cFdYUGZlQW5jSHhpYmNablI0WmhpdGx3cksyc2JjRVVjd2VmZw?oc=5>
+14. *Crunchtime Connects AI, Kitchen Automation and Restaurant Operations Management at Scale.* *Restaurant Technology News*. <https://restauranttechnologynews.com/2026/07/crunchtime-connects-ai-kitchen-automation-and-restaurant-operations-management-at-scale/>
    - Teaching use: Fits Module 4 business integration by showing how AI applications connect operational data, automation, and scalable decision support in restaurant operations.
 
 
-15. *Moving AI from Pilot to Production in Pharma Labs.* *Lab Manager*. <https://news.google.com/rss/articles/CBMiigFBVV95cUxQd1M4SEFqdXJ5akcwMnM5SHJqYzluUmV0bHpMLXFCTXoycHZERTlZVG5OUHFUekp5dXRjZGhBV1lOZTFkV1YzbXBwQ0pZbXZKc0hsQ3k0a2VzdGNra0RwZU9DeEFrbWRDOWRHRUlfT1RacFNsUXAwRmhtSXg4Zk4wTWxvRDVkVDJIaHc?oc=5>
+15. *Moving AI from Pilot to Production in Pharma Labs.* *Lab Manager*. <https://www.labmanager.com/moving-ai-from-pilot-to-production-in-pharma-labs-35683>
    - Teaching use: Directly supports Module 4 business integration and AI project risk management by giving students a current practitioner case on moving AI applications from experimentation into production workflows.
 
-16. *The Caseworker in the Age of AI: Protecting Discretion While Embracing Automation.* *PA TIMES Online*. <https://news.google.com/rss/articles/CBMiowFBVV95cUxNNVV3dHhNUFlGLW8zel91WDBLVzlLVnlzaEVYUE9nUlU5SG5uQkdjQUxsVDBfZlF6cG9tRFRmdVJXdFVldXVvTGQxajBLR2dNZVVPdVBjd3ZYdFh3NmUtdzJBX0VlbHZ2ZHFNVzVlbzg4ZWF6TEtXV0E0R0ZKb0ZlNDl0WnRkS0taUXVsbUh5ZTUwNm1FTWpCaUc5amhRSVYxWmlJ?oc=5>
+16. *The Caseworker in the Age of AI: Protecting Discretion While Embracing Automation.* *PA TIMES Online*. <https://patimes.org/the-caseworker-in-the-age-of-ai-protecting-discretion-while-embracing-automation/>
    - Teaching use: Fits Module 4 ethical AI and risk-management discussions by illustrating how automation must preserve human discretion, accountability, and decision quality in service workflows.
 
 
-17. *You Outsourced the AI—but You Still Own the Risk.* *Harvard Business Review*. <https://news.google.com/rss/articles/CBMifEFVX3lxTFBRQUpGbzZFRDFVbl9WWkFKalBLcFdyQmFTS2RldGZHUFJkMm9Xdmc3ODJsd0V0al9hd0hYS1dhMEFfb0VFWTlBbXc3Y2RzVkItQTdUU0RqV3lJdjF5TnlaT2ZHS2pIZ0JOVHExekxPVllNdW04T3B5M0JZNDY?oc=5>
+17. *You Outsourced the AI—but You Still Own the Risk.* *Harvard Business Review*. <https://hbr.org/2026/07/you-outsourced-the-ai-but-you-still-own-the-risk>
    - Teaching use: Directly supports Module 4 risk management in AI projects by giving students a management-facing case on vendor AI, accountability, and controls after outsourcing implementation.
 
-18. *IT isn’t holding AI back, your business processes are.* *CIO*. <https://news.google.com/rss/articles/CBMinwFBVV95cUxNRXpiM3RhMEdfM2dsS19oZTdsX09yYUtfQkRaWjIwLURLRXR0M29iYmVqTS1PUTZTSDM1SFBoR3p5Q3k4cXhpOTNIX3FzSGJHMjhUcTh6VVZiQ2lESW5GVE0tUWRoT1hneUtNcTlDVmZsZG0yZUdfNFNGbzBDakJIS1QyRHUzSDdKVThZX2xNd3BGTS1ZQkpKNlE2SjlqQjQ?oc=5>
+18. *IT isn’t holding AI back, your business processes are.* *CIO*. <https://www.cio.com/article/4192383/its-not-the-it-holding-ai-back-its-the-business-processes.html>
    - Teaching use: Supports Module 4 business integration by showing why analytics and AI applications must be aligned with redesigned business processes and measurable decision workflows.
 
 
-19. *Snapshot on Manufacturing Industry: Mitigating AI Bias Risk in Hiring and Workforce Management.* *JD Supra*. <https://news.google.com/rss/articles/CBMigwFBVV95cUxQb1M2cmhsUUpVZHlrRWdRcXYxb3ljYTRjWG9LbzJxbFpqemVSZUVIS28xdjRrNHUzM2JzYUdGcVo3UWwySkxaYmlQTUFrV1ktQUZmMXNza1ZSZTNJbkE4SGFBdF82YW1kZ091NTNvR3Ziclo3b056R2tza1I0X3dmVVdGMA?oc=5>
+19. *Snapshot on Manufacturing Industry: Mitigating AI Bias Risk in Hiring and Workforce Management.* *JD Supra*. <https://www.jdsupra.com/legalnews/snapshot-on-manufacturing-industry-9996569/>
    - Teaching use: Fits Module 4 ethical AI and risk management by showing bias-risk considerations in a concrete hiring and workforce-management analytics setting.
 
 
-20. *How the NIST AI RMF helps IT manage risk.* *Spiceworks*. <https://news.google.com/rss/articles/CBMie0FVX3lxTE5PRWtZVHRnMDJtMElVRzBEV21ieklTa1VlS0lycWZhaFFTbjQwLTJGc202SzVhN1ZiMFBrZEhWZ2VZb3JfZlREQ2o4SFJPdDI2a3FhNUpzenMzR0drR3JSMG43VEdmVzJzVGM3NGd1NWViV2JEa3BvZlVabw?oc=5>
+20. *How the NIST AI RMF helps IT manage risk.* *Spiceworks*. <https://www.spiceworks.com/ai/how-the-nist-ai-rmf-helps-it-manage-risk/>
    - Teaching use: Provides a practical framework reference for the course unit on AI project risk management, model controls, and responsible implementation.
 
 
-21. *Managing third-party model risk and AI dependencies.* *Security Boulevard*. <https://news.google.com/rss/articles/CBMilAFBVV95cUxQT3dQMnVDREMxcUJ2bm5VVHk3M0k2X2xlSEhaNlJXRkprQ2pka082Y0lUVGpPRFR1dHVnQlBtc0VrUGpITU11dm9wLUJpVlZuTXdSZkhFT0kyVldpUW1fMlZKTkZpeW5iZGVWVWp5Q1dINlhySTV2RnVfU21IZElQV1E0UFM0TGdzNE9RSnFmdzdMZVdr?oc=5>
+21. *Managing third-party model risk and AI dependencies.* *Security Boulevard*. <https://securityboulevard.com/2026/07/managing-third-party-model-risk-and-ai-dependencies/>
    - Teaching use: Directly supports the course focus on AI project risk management by showing how third-party model dependencies should be assessed in business analytics implementations.
 
-22. *Tracking AI in the supply chain.* *Computer Weekly*. <https://news.google.com/rss/articles/CBMiekFVX3lxTE84Y1BsSnZtWGRPZV9ScVhqb0h1UXNnX24zb1BtNWhObEhFYXU3WWptVGZkRXEzTVJfT2s2cjhXaVBvV3ZIZ3FTSFdOcVpfWk9TMUx3VktwVExxc2IyZk1hc1J1Zl9obUZrcm9SN2k3bG1JUnVPQk1wclZn?oc=5>
+22. *Tracking AI in the supply chain.* *Computer Weekly*. <https://www.computerweekly.com/feature/Tracking-AI-in-the-supply-chain>
    - Teaching use: Offers an applied business analytics case for AI-supported supply-chain monitoring, data collection, operational decision-making, and model evaluation.
 
 
-23. *How AI and Data Are Redefining Maintenance and Operations.* *Facilitiesnet*. https://news.google.com/rss/articles/CBMiwgFBVV95cUxQZDZTQlZUMmItWXFHd3NzN3g1VWhBWldnR2l4SVVoRXhSNTlmQmdlZG1ZRzJuSFNTZEhjYzdrOW80SWRaY2RPM2NuZjVVdGNVamZXbHdjZEtEMjhkZVdJZVdGamdWRTJYUmhZOUpTemRBYnQ0WlFuWjNvdjdabVhPWE9BUExiRWVTMHZUUEpzMTN0dWJMd3ltVlprV3N6TnpTTlhvVl96a1gtV2VXb1c2UHJ4ZHM3S3UtZFFnaFBRVEVrdw?oc=5
+23. *How AI and Data Are Redefining Maintenance and Operations.* *Facilitiesnet*. <https://www.facilitiesnet.com/maintenanceoperations/article/How-AI-and-Data-Are-Redefining-Maintenance-and-Operations--21018>
    - Teaching use: Operational data, AI decision support, and business analytics for maintenance and operations.
 
-24. *Archer® Proves Purpose-Built AI Beats General-Purpose LLMs on Regulatory Change Management: 95% Verified Accuracy, 80x Faster, 92% Lower Cost.* *Business Wire*. https://news.google.com/rss/articles/CBMinAJBVV95cUxNVFdZa3BTZEtkdndPUENCeGREUVRmOVdPYVgtNWx2dm5kcEk4VEhnV01FbkFJWGRTWm9qcS02LWY0SS1ZNVM3U1U4UmNIdld4UmR1SUszc3lCQl9fbnU1SlJ0MHhWRGpBVDgyMkRWaVVMNlJ6OEtfNWpPalZuMDFyYmZURENMMlMxSmRVZUpfbjJhTU51MThEN1NHQnNjM0R4aWFsalBKMHRBUXQycDRpRE1KMlRBVWJuZUM5ZXdwb1VZTHpPcXE0a1dNVUd6dkFyUXcyU0hpTnl1TjEyWHZUVnJaZXVxZWpIU2xSdmY5cHJCSnlqcHF0Y2RmTXUtTm9pcndrM25iZnJCdWNFdU9xXzdRZHdOc1pHX3lXZA?oc=5
+24. *Archer® Proves Purpose-Built AI Beats General-Purpose LLMs on Regulatory Change Management: 95% Verified Accuracy, 80x Faster, 92% Lower Cost.* *Business Wire*. <https://www.businesswire.com/news/home/20260630423261/en/Archer-Proves-Purpose-Built-AI-Beats-General-Purpose-LLMs-on-Regulatory-Change-Management-95-Verified-Accuracy-80x-Faster-92-Lower-Cost>
    - Teaching use: Comparing purpose-built AI and general-purpose LLMs using accuracy, speed, cost, and business fit.
 
 ---
