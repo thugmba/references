@@ -4,8 +4,6 @@ _Updated: 2026-07-27_
 _Courses: 7_  
 _Total references: 133_
 
-This repository publishes plain Markdown course reference lists generated from the course knowledge database. GitHub Pages renders these Markdown files directly.
-
 ## Courses
 
 | Course | Total | Academic papers | Articles / reports |
@@ -17,13 +15,3 @@ This repository publishes plain Markdown course reference lists generated from t
 | [6144 Global Business Management and Strategy](6144-global-business-management-and-strategy.md) | 26 | 6 | 20 |
 | [6147 Data Science for Global Managers](6147-data-science-for-global-managers.md) | 13 | 5 | 8 |
 | [6161 Business Analytics and AI Application](6161-business-analytics-and-ai-application.md) | 34 | 10 | 24 |
-
-## Source Notes
-
-- `06_Courses/1168 Business AI Tools - Effective ChatGPT Communication/references.md`
-- `06_Courses/1170 Digital Transformation for Platform Business/references.md`
-- `06_Courses/1172 Data Visualization Analysis/references.md`
-- `06_Courses/1173 Machine Learning for Business Analytics/references.md`
-- `06_Courses/6144 Global Business Management and Strategy/references.md`
-- `06_Courses/6147 Data Science for Global Managers/references.md`
-- `06_Courses/6161 Business Analytics and AI Application/references.md`
