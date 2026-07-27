@@ -14,17 +14,14 @@ This page is generated from the course reference note in the Obsidian course dat
 
 ## Academic Papers
 
-### Highly Relevant Updates — 2026-07-09 (cron jobs 50027e496a51, a4b01c81f66e)
 
 1. *AI capability and green innovation impact on sustainable performance: Moderating role of big data and knowledge management.* Al Halbusi, H., Al‐Sulaiti, K. I., Alalwan, A. A., & Al-Busaidi, A. S. (2024). *Technological Forecasting and Social Change*. <https://doi.org/10.1016/j.techfore.2024.123897>
    - Teaching use: Connects AI capability, big data, knowledge management, and sustainable performance, supporting Module 4 business integration and responsible AI application discussions.
 
-### Highly Relevant Updates — 2026-07-08 (cron jobs 50027e496a51, a4b01c81f66e)
 
 2. *Assessing the nexus of generative AI adoption, ethical considerations and organizational performance.* Rana, N. P., Pillai, R., Sivathanu, B., & Malik, N. (2024). *Technovation*. <https://doi.org/10.1016/j.technovation.2024.103064>
    - Teaching use: Connects AI adoption, ethical considerations, and organizational performance, making it useful for Module 4 integration of AI applications, risk management, and responsible business decision-making.
 
-### Highly Relevant Updates — 2026-07-07 (cron jobs 50027e496a51, a4b01c81f66e)
 
 3. *Generative AI-enabled supply chain management: The critical role of coordination and dynamism.* Li, L., Liu, Y., Jin, Y., Cheng, T. C. E., et al. (2024). *International Journal of Production Economics*. <https://doi.org/10.1016/j.ijpe.2024.109388>
    - Teaching use: Strong applied case for connecting AI applications with operational decision-making, coordination data, and analytics-driven supply-chain performance.
@@ -32,7 +29,6 @@ This page is generated from the course reference note in the Obsidian course dat
 4. *Benchmarking operations and supply chain management practices using Generative AI: Towards a theoretical framework.* Dubey, R., Gunasekaran, A., & Papadopoulos, T. (2024). *Transportation Research Part E: Logistics and Transportation Review*. <https://doi.org/10.1016/j.tre.2024.103689>
    - Teaching use: Supports lessons on business analytics evaluation by showing how generative AI can benchmark operations and supply-chain practices.
 
-### Highly Relevant Updates — 2026-07-05 (cron jobs 50027e496a51, a4b01c81f66e)
 
 5. *Toward human-centered AI management: Methodological challenges and future directions.* Dong, M., Bonnefon, J.-F., & Rahwan, I. (2024). *Technovation*. <https://www.sciencedirect.com/science/article/pii/S0166497224000038>
    - Teaching use: Connects responsible AI application with human-centered evaluation of stakeholder, worker, and manager responses to AI systems.
@@ -40,7 +36,6 @@ This page is generated from the course reference note in the Obsidian course dat
 6. *A literature review of artificial intelligence research in business and management using machine learning and ChatGPT.* Guler, N., Kirshner, S. N., & Vidgen, R. (2024). *Data and Information Management*. <https://doi.org/10.1016/j.dim.2024.100076>
    - Teaching use: Demonstrates how machine learning and ChatGPT can map AI-in-business research themes for analytics project scoping.
 
-### Highly Relevant Research Trend References — AI Management and Business Analytics (Discord source, 2026-07-04)
 
 7. *Managing with artificial intelligence: An integrative framework.* Hillebrand, L., Raisch, S., & Schad, J. (2025). *Academy of Management Annals*. https://doi.org/10.5465/annals.2022.0072
    - Teaching use: AI as organizational capability; managerial judgment, decision-making, and organizational design.
@@ -56,12 +51,10 @@ This page is generated from the course reference note in the Obsidian course dat
 
 ## Articles and Reports
 
-### Highly Relevant Updates — 2026-07-25 (cron jobs 50027e496a51, a4b01c81f66e)
 
 1. *Cigna expands AI-backed care management to reach members earlier in treatment.* *Hartford Business Journal*. <https://news.google.com/rss/articles/CBMitgFBVV95cUxPOC02cElJMzNiaGNtZ1NfRE0wSHZCbUJPN2RTY2VTZHFRSFpjSFIyaFpETkI5N3EwdGZqUEdRTG5VbXJ5WHpxTE0wR0RvaUMtWmdObGYyc1lMREJWbFBBVkhjMDl1a1VLb3dYcWpCQXkteEZBTWppaFZvZGVFV0VENnJfNG1CREdJcnVPMTI4RnY1cWZpWV9JRVZnNnlBaFFSYUhQbGdJcEJCWERQVDBmNVpmM2wzQQ?oc=5>
    - Teaching use: Directly supports Module 4 AI applications in business decision-making by providing a current healthcare analytics case on earlier intervention, operational decision support, and responsible care-workflow integration.
 
-### Highly Relevant Updates — 2026-07-24 (cron jobs 50027e496a51, a4b01c81f66e)
 
 2. *AI and Automation Are Reshaping Revenue Cycle Management.* *Healthcare IT Today*. <https://news.google.com/rss/articles/CBMipAFBVV95cUxPZmZmSTMtV0UwTmsyX0hIRGt1NlIzYjhWU0lRUDd2RnJmWDdVWjBVdTEyOGluMkEwYldOU1dHUTlhRGg5Wl9HWWhoOEFkTWRhcDdLWUJkbWdjQUpfTUFFQWdTdmhpQ0JNNUcwem5LdWdWTlBxS0FrY05NMXR5MzQyYU1oZFV2Mkd0a2M1VEpXYTNuSmQyWG80RDFfek0xb0dLamFHdw?oc=5>
    - Teaching use: Directly supports Module 4 business integration by giving students a current healthcare operations case for analyzing AI automation, process data, and decision-support impacts in revenue-cycle workflows.
@@ -69,12 +62,10 @@ This page is generated from the course reference note in the Obsidian course dat
 3. *AI, racial bias and the imperative for equitable technology.* *Health Data Management*. <https://news.google.com/rss/articles/CBMipwFBVV95cUxNUk1naVFrMnpIazVjdV9PLTR1WDE4UWJvOXlkNXp1ZnRTXzVDUDNUYUJXQUVPcmRtYW1YdkpmbHVvMF9HUktLMjhncXZCd1RjV3FDcFh5WTJyR1lsd3FEWWtTaWtfdzAxZHBfbVM2Rmt4eDVHdkY3dGlTYWF3ZHVXcEZRc1ZmaEZmVzZDdkxzUjJIbDNoY2dPdmpIM1hLX21NcHJWYkM5NA?oc=5>
    - Teaching use: Directly supports Module 4 ethical AI and risk management by providing a current domain case for discussing bias, equity, and responsible evaluation of AI applications in health data settings.
 
-### Highly Relevant Updates — 2026-07-23 (cron jobs 50027e496a51, a4b01c81f66e)
 
 4. *When Employees Are Held Accountable for AI-Generated Decisions.* *Harvard Business Review*. <https://news.google.com/rss/articles/CBMijwFBVV95cUxPTVJvZnFWVk5NX2U3TlZWUTVDWlBYQ0wzYW9DM1hhbUQyZjlTdWdvUk5lelQtNFFXcWlmUEVKN05OSVpnWEROYXVUbVUxYWpESHdCUDlrNW96TnNVZlVYV2M4VkZnQnNfdzdzYjNsMGprZXY3VDlVRjBZNVhIenFHNWkxeUtoYlpxQ1pZQjBBYw?oc=5>
    - Teaching use: Directly supports Module 4 risk management and ethical AI by focusing student discussion on accountability boundaries, decision quality, and human review when AI applications influence business decisions.
 
-### Highly Relevant Updates — 2026-07-22 (cron jobs 50027e496a51, a4b01c81f66e)
 
 5. *Would you bet your AI strategy on your current data? Why governance is key.* *Wolters Kluwer*. <https://news.google.com/rss/articles/CBMivwFBVV95cUxNTzRTLXpUeDE2NTRpZG9xVHBjdFBIV2tYRkItN2dKbDJ5UENlOS1xQnhtSnpJTU9xd1FGVTg1VW5lT0JPeVpkWTluUTEwdkNWdE9BUGtYc3l2T1VHYk9YRGVOUWNaR05lVGtDSnU3czJFLU1jUjN4NW5pYW96cW0wdjRVdHJ4MDQ3VEJQTTFGeDZ0bTlubC1OWjRXYWpGOVI0Z0V6Sk9FT0d2WDZiTTJaU05LM05vdE10Mklic0JuWQ?oc=5>
    - Teaching use: Directly supports Modules 1, 2, and 4 by connecting data quality and governance to reliable AI applications, risk management, and business decision-making.
@@ -82,12 +73,10 @@ This page is generated from the course reference note in the Obsidian course dat
 6. *Responsible AI Is Becoming a Growth Strategy.* *Harvard Business Review*. <https://news.google.com/rss/articles/CBMid0FVX3lxTFBoeC1nbEZrazRGclM2aWFrbTZzNkV6WjkyZEVmVFRrYXhvWWtTVDZSM2V6SDZPem02UjcwR3pHWGhBZVBQMUtDN3RIR2FhSllRTTdGMTBHZERXMWFzUUtHNnVZeFhqa1RqUExNdnFMRU9fVS1RTXdn?oc=5>
    - Teaching use: Directly supports Module 4 ethical AI by framing responsible AI as a measurable business-value and growth issue rather than only a compliance requirement.
 
-### Highly Relevant Updates — 2026-07-18 (cron jobs 50027e496a51, a4b01c81f66e)
 
 7. *The Dawn of AI Change-Control.* *Communications of the ACM*. <https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1hOFRsVVV5YV9Tald4akJTQm9xSzZ1c21hd1ViNDQ5S05aN3BQWXdHcFItNGlTMUw3UUZYbFY4Z0NDcjRNZ2lxYnp2MzFCTktwMThVbXhYeUJFR3hsRy01SUs3di1uOU0?oc=5>
    - Teaching use: Directly supports Module 4 AI project risk management by framing AI system updates, controls, and deployment changes as governance issues that affect reliable business analytics applications.
 
-### Highly Relevant Updates — 2026-07-16 (cron jobs 50027e496a51, a4b01c81f66e)
 
 8. *Place, process, protect: the three rules of world-class AI data management.* *TechRadar*. <https://news.google.com/rss/articles/CBMiowFBVV95cUxOQy0tRUpkMGtEeDZnNTlBNGlIekY2S1BYLWwxQnNTUElfektSOFZKdDZBZmdlSlZIVl9mMWFQUHZ4UnhBNHBqd0dRZDQ2OEwzVnpsZS1GR2VlYWpzRE9sdm9UbGZKYi1IUTZENVIwUUFSVHJodmZsNF9iRXQ0cFBhT1h0NHJUQVctMFJEV1lzdHYwVWR2NGtscUNqUWVLeXJUMFo0?oc=5>
    - Teaching use: Directly supports Module 1 data collection, Module 2 data cleaning, and Module 4 AI project risk management by framing data placement, processing, and protection as prerequisites for reliable business AI applications.
@@ -95,17 +84,14 @@ This page is generated from the course reference note in the Obsidian course dat
 9. *Trust and assurance: the key to scaling AI deployments.* *TMForum - Inform*. <https://news.google.com/rss/articles/CBMirwFBVV95cUxPUmhuSkJJQm1kWXhNcFZNclJXcERPQlBKdWpjYUY0MnBSYUZqNnpiWGNNSWpqM1RGb0owbnhiQ1dXTm51aUZOWElUUXdMU3VMRUJ4bnVkUnlaYldfUHMzR2JBLURBWkladUVrT2lrakJqV0tQOEdRS21oM2dFbmUzWkNLazgwNW5tV21TdTFLRVVOLTl5TmNwQVJKVnhISWdaQXBpSjF6bzJEb1lfSjhN?oc=5>
    - Teaching use: Fits Module 4 business integration and ethical AI by giving students a practitioner reference on assurance, trust, and deployment controls needed when moving AI applications beyond pilots.
 
-### Highly Relevant Updates — 2026-07-15 (cron jobs 50027e496a51, a4b01c81f66e)
 
 10. *ISO 42001: Understanding AI governance for everyday people as it becomes practical work.* *Spiceworks*. <https://news.google.com/rss/articles/CBMiuAFBVV95cUxNdzBvQTZnZkNycGtHZWRkV3Aza01jT3RjUi1LMk9rNWtQaU1iNFAxcEJ2VlpSLXVFT0thRWpJQkg1V042QmhiakpHZDVnMlhaaHlYaHB1eE5QQjBkMXkzWURRWTFhUDdxSnpYZnpJSEFvMzlyMFBQX2FMSjJsYWhYcXM0cG5MamUxV2VONzFzMWoyQWlfR25hOGFkdVFPMHl0dENKdFlWRFFmMkZsZEotcll1LWx0T24y?oc=5>
    - Teaching use: Directly supports Module 4 risk management and ethical AI by giving students a practical governance-standard reference for translating responsible AI principles into AI-project controls.
 
-### Highly Relevant Updates — 2026-07-14 (cron jobs 50027e496a51, a4b01c81f66e)
 
 11. *From fragmented negotiations to coordinated negotiation performance: an AI-enabled approach.* *Supply Chain Management Review*. <https://news.google.com/rss/articles/CBMiuwFBVV95cUxNMTlKTm05ZkI1ZUZJNzZfQ01pNGYzUlpsWTd1R29RYzlkT3p5RFM1TFBlRWpyQ3RYdGs0Vk1BZHQwRzJkV2NRZG9lM242eGk3dkh6dUd6TEJGRHFEQkNnNzRudkhDVVJkY1RIaGdtY0JWNnRaRE5lR1BJWVk2bHdEam01bjNKLVdSS0VHbW45SzFia2xjT3drRTdpZDA0YlZHMlVLekppN3JzbGVkZmNRdk5YQmxlbl9pajNF?oc=5>
    - Teaching use: Supports Module 4 business integration by showing how AI-enabled coordination can turn fragmented procurement or supply-chain negotiation data into measurable negotiation-performance improvement.
 
-### Highly Relevant Updates — 2026-07-13 (cron jobs 50027e496a51, a4b01c81f66e)
 
 12. *Forrester: Managing supply chain volatility with agentic AI.* *Computer Weekly*. <https://news.google.com/rss/articles/CBMingFBVV95cUxPZEI0NC1mY2hmTG9wVzlnZzRIZndMTzJmRGMybDhEdkpKWFFESXpzMGh6X0FvU3J0QWdUcWhKakllclh4QmpkR0lxUUpzUUQ2X1pzcTBUQXNLTHFqRkRSRHJSS1poR1ZXanVxN282U1hmTXpXZFJKWDVaeklUXzNmZTF0R1RfN3hCNXVmMUl6R0ZZVVFzNWgwVXdKOUlWZw?oc=5>
    - Teaching use: Supports Module 4 business integration by giving students a current operations case on using agentic AI for supply-chain volatility, decision support, and risk-aware process management.
@@ -113,12 +99,10 @@ This page is generated from the course reference note in the Obsidian course dat
 13. *7 Ways AI TMS Platforms Optimize Heavy Equipment Supply Chains.* *Global Trade Magazine*. <https://news.google.com/rss/articles/CBMimgFBVV95cUxNbVZudkp4SlBrQm1sRGZqODlOQTN0Q0syRU5XLXk4SlVzaVdaaTFSdi1JdFIzdlJFRlIxTFdSWHltc3NlWGJTZDZ6b1VyY2pmTkJJUVc3V0VzdDRtRzlxckVNTFd4eGNpQVdwUE5uMVBNYWgwRW1IN3F0a2F5NUlfNXBmV09EbkI4MER3a3F0Mk5TWWpsUS11akZn?oc=5>
    - Teaching use: Fits the course’s business analytics and AI-application focus by illustrating AI-enabled transportation management, operational data flows, and supply-chain optimization as practical decision-support use cases.
 
-### Highly Relevant Updates — 2026-07-12 (cron jobs 50027e496a51, a4b01c81f66e)
 
 14. *Crunchtime Connects AI, Kitchen Automation and Restaurant Operations Management at Scale.* *Restaurant Technology News*. <https://news.google.com/rss/articles/CBMizgFBVV95cUxNOGFFV1N0WFRraGlKNUMtWlJPRW9Kc1JIQlBuSE9nQkhTelptZGJ4aGpBbFFWcm9MQlZjRW9Rb0ZmbjVBMkRrYkpVdGFTa09GQnVfYWhodEIwT0xsU0hvUDlDcWpLTDFLcm9DM29WRzZjTGkxZ3lUM1pVa1Qyd3hLamlWTmVWckloWTdvWjF2M183M1dKMmllRXJGMUV5ektyUkN3VjA4QnQ2cFdYUGZlQW5jSHhpYmNablI0WmhpdGx3cksyc2JjRVVjd2VmZw?oc=5>
    - Teaching use: Fits Module 4 business integration by showing how AI applications connect operational data, automation, and scalable decision support in restaurant operations.
 
-### Highly Relevant Updates — 2026-07-11 (cron jobs 50027e496a51, a4b01c81f66e)
 
 15. *Moving AI from Pilot to Production in Pharma Labs.* *Lab Manager*. <https://news.google.com/rss/articles/CBMiigFBVV95cUxQd1M4SEFqdXJ5akcwMnM5SHJqYzluUmV0bHpMLXFCTXoycHZERTlZVG5OUHFUekp5dXRjZGhBV1lOZTFkV1YzbXBwQ0pZbXZKc0hsQ3k0a2VzdGNra0RwZU9DeEFrbWRDOWRHRUlfT1RacFNsUXAwRmhtSXg4Zk4wTWxvRDVkVDJIaHc?oc=5>
    - Teaching use: Directly supports Module 4 business integration and AI project risk management by giving students a current practitioner case on moving AI applications from experimentation into production workflows.
@@ -126,7 +110,6 @@ This page is generated from the course reference note in the Obsidian course dat
 16. *The Caseworker in the Age of AI: Protecting Discretion While Embracing Automation.* *PA TIMES Online*. <https://news.google.com/rss/articles/CBMiowFBVV95cUxNNVV3dHhNUFlGLW8zel91WDBLVzlLVnlzaEVYUE9nUlU5SG5uQkdjQUxsVDBfZlF6cG9tRFRmdVJXdFVldXVvTGQxajBLR2dNZVVPdVBjd3ZYdFh3NmUtdzJBX0VlbHZ2ZHFNVzVlbzg4ZWF6TEtXV0E0R0ZKb0ZlNDl0WnRkS0taUXVsbUh5ZTUwNm1FTWpCaUc5amhRSVYxWmlJ?oc=5>
    - Teaching use: Fits Module 4 ethical AI and risk-management discussions by illustrating how automation must preserve human discretion, accountability, and decision quality in service workflows.
 
-### Highly Relevant Updates — 2026-07-10 (cron jobs 50027e496a51, a4b01c81f66e)
 
 17. *You Outsourced the AI—but You Still Own the Risk.* *Harvard Business Review*. <https://news.google.com/rss/articles/CBMifEFVX3lxTFBRQUpGbzZFRDFVbl9WWkFKalBLcFdyQmFTS2RldGZHUFJkMm9Xdmc3ODJsd0V0al9hd0hYS1dhMEFfb0VFWTlBbXc3Y2RzVkItQTdUU0RqV3lJdjF5TnlaT2ZHS2pIZ0JOVHExekxPVllNdW04T3B5M0JZNDY?oc=5>
    - Teaching use: Directly supports Module 4 risk management in AI projects by giving students a management-facing case on vendor AI, accountability, and controls after outsourcing implementation.
@@ -134,17 +117,14 @@ This page is generated from the course reference note in the Obsidian course dat
 18. *IT isn’t holding AI back, your business processes are.* *CIO*. <https://news.google.com/rss/articles/CBMinwFBVV95cUxNRXpiM3RhMEdfM2dsS19oZTdsX09yYUtfQkRaWjIwLURLRXR0M29iYmVqTS1PUTZTSDM1SFBoR3p5Q3k4cXhpOTNIX3FzSGJHMjhUcTh6VVZiQ2lESW5GVE0tUWRoT1hneUtNcTlDVmZsZG0yZUdfNFNGbzBDakJIS1QyRHUzSDdKVThZX2xNd3BGTS1ZQkpKNlE2SjlqQjQ?oc=5>
    - Teaching use: Supports Module 4 business integration by showing why analytics and AI applications must be aligned with redesigned business processes and measurable decision workflows.
 
-### Highly Relevant Updates — 2026-07-09 (cron jobs 50027e496a51, a4b01c81f66e)
 
 19. *Snapshot on Manufacturing Industry: Mitigating AI Bias Risk in Hiring and Workforce Management.* *JD Supra*. <https://news.google.com/rss/articles/CBMigwFBVV95cUxQb1M2cmhsUUpVZHlrRWdRcXYxb3ljYTRjWG9LbzJxbFpqemVSZUVIS28xdjRrNHUzM2JzYUdGcVo3UWwySkxaYmlQTUFrV1ktQUZmMXNza1ZSZTNJbkE4SGFBdF82YW1kZ091NTNvR3Ziclo3b056R2tza1I0X3dmVVdGMA?oc=5>
    - Teaching use: Fits Module 4 ethical AI and risk management by showing bias-risk considerations in a concrete hiring and workforce-management analytics setting.
 
-### Highly Relevant Updates — 2026-07-08 (cron jobs 50027e496a51, a4b01c81f66e)
 
 20. *How the NIST AI RMF helps IT manage risk.* *Spiceworks*. <https://news.google.com/rss/articles/CBMie0FVX3lxTE5PRWtZVHRnMDJtMElVRzBEV21ieklTa1VlS0lycWZhaFFTbjQwLTJGc202SzVhN1ZiMFBrZEhWZ2VZb3JfZlREQ2o4SFJPdDI2a3FhNUpzenMzR0drR3JSMG43VEdmVzJzVGM3NGd1NWViV2JEa3BvZlVabw?oc=5>
    - Teaching use: Provides a practical framework reference for the course unit on AI project risk management, model controls, and responsible implementation.
 
-### Highly Relevant Updates — 2026-07-06 (cron jobs 50027e496a51, a4b01c81f66e)
 
 21. *Managing third-party model risk and AI dependencies.* *Security Boulevard*. <https://news.google.com/rss/articles/CBMilAFBVV95cUxQT3dQMnVDREMxcUJ2bm5VVHk3M0k2X2xlSEhaNlJXRkprQ2pka082Y0lUVGpPRFR1dHVnQlBtc0VrUGpITU11dm9wLUJpVlZuTXdSZkhFT0kyVldpUW1fMlZKTkZpeW5iZGVWVWp5Q1dINlhySTV2RnVfU21IZElQV1E0UFM0TGdzNE9RSnFmdzdMZVdr?oc=5>
    - Teaching use: Directly supports the course focus on AI project risk management by showing how third-party model dependencies should be assessed in business analytics implementations.
@@ -152,7 +132,6 @@ This page is generated from the course reference note in the Obsidian course dat
 22. *Tracking AI in the supply chain.* *Computer Weekly*. <https://news.google.com/rss/articles/CBMiekFVX3lxTE84Y1BsSnZtWGRPZV9ScVhqb0h1UXNnX24zb1BtNWhObEhFYXU3WWptVGZkRXEzTVJfT2s2cjhXaVBvV3ZIZ3FTSFdOcVpfWk9TMUx3VktwVExxc2IyZk1hc1J1Zl9obUZrcm9SN2k3bG1JUnVPQk1wclZn?oc=5>
    - Teaching use: Offers an applied business analytics case for AI-supported supply-chain monitoring, data collection, operational decision-making, and model evaluation.
 
-### Highly Relevant News and Reports — Business Analytics and AI Applications (Cron jobs 50027e496a51, 2026-07-01 to 2026-07-04)
 
 23. *How AI and Data Are Redefining Maintenance and Operations.* *Facilitiesnet*. https://news.google.com/rss/articles/CBMiwgFBVV95cUxQZDZTQlZUMmItWXFHd3NzN3g1VWhBWldnR2l4SVVoRXhSNTlmQmdlZG1ZRzJuSFNTZEhjYzdrOW80SWRaY2RPM2NuZjVVdGNVamZXbHdjZEtEMjhkZVdJZVdGamdWRTJYUmhZOUpTemRBYnQ0WlFuWjNvdjdabVhPWE9BUExiRWVTMHZUUEpzMTN0dWJMd3ltVlprV3N6TnpTTlhvVl96a1gtV2VXb1c2UHJ4ZHM3S3UtZFFnaFBRVEVrdw?oc=5
    - Teaching use: Operational data, AI decision support, and business analytics for maintenance and operations.
