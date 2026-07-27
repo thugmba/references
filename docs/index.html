@@ -1,0 +1,223 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>AI Readiness in Higher Education — Editable Visual Deck v9 — No Arrows</title>
+<style>
+:root{--ink:#f8fafc;--muted:#b6c1d3;--line:rgba(226,232,240,.18);--accent:#60a5fa;--accent-rgb:96,165,250;font-family:Aptos,ui-sans-serif,system-ui,-apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif}*{box-sizing:border-box}html,body{margin:0;width:100%;height:100%;overflow:hidden;background:#020617;color:var(--ink)}body{display:grid;place-items:center}#shell{width:100vw;height:100vh;display:grid;place-items:center;background:#020617}#stage{width:1920px;height:1080px;position:absolute;left:50%;top:50%;overflow:hidden;background:#050816;box-shadow:0 28px 110px rgba(0,0,0,.58);transform-origin:center center}.slide{position:absolute;inset:0;display:none;padding:70px 92px 64px;overflow:hidden;background:linear-gradient(135deg,#050816,#0b1224 56%,#111827);isolation:isolate}.slide.active{display:block;animation:slideIn .34s cubic-bezier(.2,.8,.2,1) both}@keyframes slideIn{from{opacity:0;transform:translateY(14px) scale(.994)}to{opacity:1;transform:none}}.slide::before{content:"";position:absolute;right:-260px;top:-280px;width:820px;height:820px;border-radius:50%;background:rgba(var(--accent-rgb),.18);filter:blur(130px);z-index:-2}.grid{position:absolute;inset:0;z-index:-1;opacity:.22;background-image:linear-gradient(rgba(255,255,255,.055) 1px,transparent 1px),linear-gradient(90deg,rgba(255,255,255,.055) 1px,transparent 1px);background-size:72px 72px;mask-image:linear-gradient(to bottom,#000,rgba(0,0,0,.45))}header{display:flex;justify-content:space-between;align-items:center;color:var(--muted);font-size:20px;font-weight:850;letter-spacing:.13em;text-transform:uppercase;margin-bottom:42px}.count{color:var(--accent);font-size:24px;letter-spacing:.04em}.layout{height:calc(100% - 142px);display:grid;grid-template-columns:.76fr 1.24fr;gap:58px;align-items:center}.kicker{display:inline-flex;align-items:center;gap:15px;color:var(--accent);font-size:28px;font-weight:950;margin-bottom:20px}.kicker:before{content:"";width:56px;height:6px;border-radius:999px;background:var(--accent)}h1{margin:0;font-size:72px;line-height:.95;letter-spacing:-.055em;font-weight:960;text-wrap:balance}.subtitle{margin:28px 0 0;color:#d5deee;font-size:28px;line-height:1.23;font-weight:540;text-wrap:pretty;max-width:760px}.visual{height:100%;min-height:650px;border:1px solid var(--line);border-radius:42px;background:linear-gradient(180deg,rgba(15,23,42,.88),rgba(15,23,42,.62));box-shadow:0 30px 100px rgba(0,0,0,.34);position:relative;overflow:hidden}.visual-title{position:absolute;left:44px;top:34px;color:var(--muted);font-size:20px;font-weight:900;text-transform:uppercase;letter-spacing:.14em}.canvas{position:absolute;left:44px;right:44px;top:92px;height:585px}.connector{position:absolute;inset:0;width:100%;height:100%;z-index:1;overflow:visible}.line{stroke:var(--accent);stroke-width:4;stroke-linecap:round;fill:none;opacity:.85}.line.soft{stroke:rgba(226,232,240,.26);stroke-width:2;stroke-dasharray:8 10}.node{position:absolute;z-index:2;border:1px solid rgba(226,232,240,.18);background:rgba(255,255,255,.065);box-shadow:0 14px 42px rgba(0,0,0,.24);border-radius:24px;display:flex;flex-direction:column;align-items:center;justify-content:center;text-align:center;color:var(--ink);font-size:23px;line-height:1.08;font-weight:900;padding:14px}.node.accent{background:rgba(var(--accent-rgb),.17);border-color:rgba(var(--accent-rgb),.38)}.node.round{border-radius:999px}.sub{display:block;margin-top:7px;color:var(--muted);font-size:17px;line-height:1.12;font-weight:760}.caption{position:absolute;left:44px;right:44px;bottom:34px;color:#dbeafe;font-size:24px;line-height:1.22;font-weight:750}.caption b{color:var(--accent)}.reveal{opacity:0;transform:translateY(16px);filter:blur(4px);transition:opacity .46s cubic-bezier(.2,.8,.2,1),transform .46s cubic-bezier(.2,.8,.2,1),filter .46s}.reveal.visible{opacity:1;transform:none;filter:none}.hint{position:absolute;right:92px;bottom:62px;color:rgba(226,232,240,.56);font-size:18px;font-weight:760}.progress{position:absolute;left:92px;right:92px;bottom:36px;height:8px;border-radius:999px;background:rgba(148,163,184,.20);overflow:hidden}.progress>i{display:block;height:100%;width:0;background:var(--accent);border-radius:inherit;transition:width .2s ease}.controls{position:fixed;right:20px;bottom:20px;display:flex;gap:8px;padding:7px;border:1px solid rgba(226,232,240,.16);border-radius:999px;background:rgba(2,6,23,.62);backdrop-filter:blur(16px);z-index:20;opacity:.07;transition:opacity .18s}.controls:hover,.controls:focus-within{opacity:.92}button{min-width:40px;min-height:40px;border:0;border-radius:999px;color:var(--ink);background:rgba(148,163,184,.16);font:inherit;font-size:14px;font-weight:850;cursor:pointer}button:hover,button:focus-visible{outline:2px solid rgba(var(--accent-rgb),.75);background:rgba(var(--accent-rgb),.22)}.quad{position:absolute;left:60px;top:36px;width:760px;height:470px}.quad:before,.quad:after{content:"";position:absolute;background:rgba(226,232,240,.22);z-index:0}.quad:before{left:50%;top:0;bottom:0;width:2px}.quad:after{left:0;right:0;top:50%;height:2px}.axis{position:absolute;color:var(--muted);font-size:18px;font-weight:850;text-transform:uppercase;letter-spacing:.08em}.list{position:absolute;left:40px;right:40px;top:28px;display:grid;gap:16px}.list .node{position:relative;width:auto;height:auto;min-height:82px;align-items:flex-start;text-align:left;padding:18px 22px}.list .node span:first-child{color:var(--accent)}@media (prefers-reduced-motion:reduce){*,*:before,*:after{animation-duration:1ms!important;transition-duration:1ms!important}}@media print{html,body{overflow:visible;background:white}.controls,.hint{display:none!important}#shell{display:block;background:white}#stage{width:100%;height:auto;aspect-ratio:auto;box-shadow:none}.slide{position:relative;display:block!important;width:1920px;height:1080px;page-break-after:always}.reveal{opacity:1!important;transform:none!important;filter:none!important}}
+
+/* Visual edit mode */
+body.edit-mode .reveal{opacity:1!important;transform:none!important;filter:none!important}
+body.edit-mode .node{cursor:move;outline:2px dashed rgba(var(--accent-rgb),.75);outline-offset:4px}
+body.edit-mode .line{cursor:pointer;stroke-width:6}
+body.edit-mode .edit-handle{display:block}
+.edit-handle{display:none;fill:#fff;stroke:var(--accent);stroke-width:3;cursor:grab;filter:drop-shadow(0 2px 8px rgba(0,0,0,.55))}
+.edit-toolbar{position:fixed;left:20px;bottom:20px;display:flex;gap:8px;align-items:center;z-index:30;padding:8px;border:1px solid rgba(226,232,240,.18);border-radius:999px;background:rgba(2,6,23,.72);backdrop-filter:blur(16px);opacity:.26;transition:opacity .18s}.edit-toolbar:hover,.edit-toolbar:focus-within{opacity:1}.edit-toolbar button{min-width:40px;min-height:40px}.edit-toolbar .on{background:rgba(var(--accent-rgb),.35);outline:2px solid rgba(var(--accent-rgb),.8)}
+.edit-status{position:fixed;left:20px;bottom:78px;z-index:30;max-width:720px;color:#dbeafe;background:rgba(2,6,23,.76);border:1px solid rgba(226,232,240,.18);border-radius:18px;padding:12px 14px;font-size:14px;font-weight:750;line-height:1.35;opacity:0;pointer-events:none;transition:opacity .2s}.edit-status.show{opacity:1}
+
+</style>
+</head>
+<body>
+<div id="shell"><main id="stage"></main></div>
+<nav class="controls" aria-label="Slide controls"><button id="prev">←</button><button id="reveal">Reveal</button><button id="next">→</button><button id="reset">Reset</button></nav>
+<nav class="edit-toolbar" aria-label="Visual edit controls"><button id="editToggle" title="Toggle visual edit mode">Edit</button><button id="editSave" title="Save box positions">Save</button><button id="editReset" title="Reset visual edits">Reset visual</button><button id="editExport" title="Export box layout JSON">Export</button><button id="editDownload" title="Download edited HTML">Save HTML</button></nav><div id="editStatus" class="edit-status"></div>
+<script>
+const slides=[
+{k:'Research Trend Brief',t:'AI Readiness in Higher Education',s:'A fast-forming research cluster around AI literacy, faculty readiness, and institutional governance.',a:'#60a5fa',rgb:'96,165,250',kind:'overview'},
+{k:'Trend 1',t:'Readiness is converging with AI literacy',s:'Readiness is being operationalized through literacy, competence, ethics, and adoption capability.',a:'#34d399',rgb:'52,211,153',kind:'convergence'},
+{k:'Trend 2',t:'The unit of analysis is expanding',s:'The research focus is moving from student attitudes toward multi-level readiness across the university.',a:'#f59e0b',rgb:'245,158,11',kind:'levels'},
+{k:'Top-tier journal venues',t:'Where the conversation is happening',s:'Search beyond “AI readiness”: AI literacy, AI competence, teacher readiness, GenAI adoption, and governance.',a:'#a78bfa',rgb:'167,139,250',kind:'journals'},
+{k:'Conference map',t:'Conference evidence is dispersed',s:'Readiness appears indirectly across AIED, learning analytics, HCI, educational data mining, and information systems.',a:'#fb7185',rgb:'251,113,133',kind:'conferences'},
+{k:'Research gaps',t:'Four openings for publishable work',s:'The opportunity is strongest where readiness is modeled as a multi-level capability rather than a simple intention measure.',a:'#22d3ee',rgb:'34,211,238',kind:'gaps'},
+{k:'Business school angle',t:'A management education opportunity',s:'Business schools can connect AI readiness to decision-making, critical thinking, career preparedness, and managerial judgment.',a:'#f97316',rgb:'249,115,22',kind:'business'},
+{k:'Working model',t:'From readiness to responsible AI behavior',s:'A practical model links literacy, self-efficacy, anxiety, and institutional support to responsible use and career readiness.',a:'#10b981',rgb:'16,185,129',kind:'model'}];
+const stage=document.getElementById('stage'),KEY='ai-readiness-v3-state';
+function fitStage(){const scale=Math.min(window.innerWidth/1920,window.innerHeight/1080);stage.style.transform=`translate(-50%,-50%) scale(${scale})`;}
+window.addEventListener('resize',fitStage);fitStage();
+let state=load();function load(){try{let p=JSON.parse(localStorage.getItem(KEY)||'{}');return{slide:Number.isInteger(p.slide)?Math.max(0,Math.min(slides.length-1,p.slide)):0,reveal:Number.isInteger(p.reveal)?Math.max(0,p.reveal):0}}catch{return{slide:0,reveal:0}}}function save(){localStorage.setItem(KEY,JSON.stringify(state))}
+const box=(step,cls,x,y,w,h,html)=>`<div class="node ${cls||''} reveal" data-step="${step}" style="left:${x}px;top:${y}px;width:${w}px;height:${h}px">${html}</div>`;
+const line=(step,x1,y1,x2,y2)=>`<line class="line reveal" data-step="${step}" x1="${x1}" y1="${y1}" x2="${x2}" y2="${y2}" marker-end="url(#arrow)"/>`;
+function svg(lines){return ``}
+function visual(sl){
+if(sl.kind==='overview')return `<div class="visual-title">Research cluster</div><div class="canvas">${svg(line(6,360,102,545,102)+line(6,360,224,545,224)+line(6,360,346,545,346)+line(6,360,468,545,468))}${box(3,'',48,40,312,124,'AI Literacy<span class="sub">knowledge + skill</span>')}${box(4,'',48,162,312,124,'Faculty Readiness<span class="sub">course design · assessment</span>')}${box(5,'',48,284,312,124,'Institutional Governance<span class="sub">policy · infrastructure</span>')}${box(5,'',48,406,312,124,'Curriculum Redesign<span class="sub">activities · evaluation</span>')}${box(2,'accent round',545,168,310,250,'AI<br>Readiness')}</div><div class="caption reveal" data-step="7"><b>Key point:</b> readiness is a cluster, not a settled single construct.</div>`;
+if(sl.kind==='convergence')return `<div class="visual-title">Construct convergence</div><div class="canvas">${svg(line(5,348,112,548,112)+line(5,348,262,548,262)+line(5,348,412,548,412))}${box(2,'',48,44,300,136,'AI literacy<span class="sub">knowledge + skill</span>')}${box(3,'',48,194,300,136,'Digital competence<span class="sub">teaching + use</span>')}${box(4,'',48,344,300,136,'Ethics & trust<span class="sub">responsible use</span>')}${box(6,'accent round',548,64,310,396,'AI<br>Readiness')}</div><div class="caption reveal" data-step="7"><b>Implication:</b> define readiness explicitly before measurement.</div>`;
+if(sl.kind==='levels')return `<div class="visual-title">Multi-level expansion</div><div class="canvas">${svg(line(3,460,168,460,226)+line(4,460,348,460,406))}${box(2,'accent',250,56,420,112,'Student readiness<span class="sub">AI use · anxiety · self-efficacy</span>')}${box(3,'accent',250,236,420,112,'Faculty readiness<span class="sub">course design · assessment · feedback</span>')}${box(4,'accent',250,416,420,112,'Institutional readiness<span class="sub">policy · infrastructure · training</span>')}</div><div class="caption reveal" data-step="5"><b>Shift:</b> future studies should connect individual readiness to institutional support.</div>`;
+if(sl.kind==='journals')return `<div class="visual-title">Journal priority map</div><div class="canvas">${box(2,'',36,44,390,142,'<span>Computers & Education</span><span class="sub">learning outcomes · adoption · competence</span>')}${box(3,'',494,44,390,142,'<span>BJET / ETR&D</span><span class="sub">teacher readiness · digital pedagogy</span>')}${box(4,'',36,276,390,152,'<span>IJETHE / IJAIEd</span><span class="sub">higher-ed AI systems · reviews</span>')}${box(5,'',494,276,390,152,'<span>npj Science of Learning</span><span class="sub">measurement · scale validation</span>')}</div><div class="caption reveal" data-step="6"><b>Search strategy:</b> combine readiness with literacy, competence, GenAI adoption, and governance.</div>`;
+if(sl.kind==='conferences')return `<div class="visual-title">Conference ecosystem</div><div class="canvas">${svg(line(5,348,106,548,106)+line(5,348,224,548,224)+line(6,348,342,548,342)+line(6,348,460,548,460))}${box(2,'accent round',48,170,300,252,'AI<br>Readiness')}${box(3,'',548,44,310,124,'AIED<span class="sub">AI education</span>')}${box(4,'',548,162,310,124,'LAK · EDM<span class="sub">analytics + mining</span>')}${box(5,'',548,280,310,124,'CHI · CSCW<span class="sub">human-AI interaction</span>')}${box(6,'',548,398,310,124,'ICIS · ECIS · AOM<span class="sub">adoption + management</span>')}</div><div class="caption reveal" data-step="7"><b>Pattern:</b> conference work is fragmented across communities.</div>`;
+if(sl.kind==='gaps')return `<div class="visual-title">Research gap quadrant</div><div class="canvas"><div class="quad"><div class="axis" style="left:0;top:-34px">Individual → Institution</div><div class="axis" style="right:0;bottom:-42px">Intention → Outcome</div>${box(2,'',36,44,318,130,'Concept clarity<span class="sub">separate literacy, readiness, adoption</span>')}${box(3,'',420,44,318,130,'Multi-level measures<span class="sub">student + faculty + institution</span>')}${box(4,'',36,298,318,130,'Behavioral evidence<span class="sub">what students actually do</span>')}${box(5,'accent',420,298,318,130,'Learning outcomes<span class="sub">performance · judgment · employability</span>')}</div></div><div class="caption reveal" data-step="6"><b>Opportunity:</b> move from intention surveys toward multi-level outcome models.</div>`;
+if(sl.kind==='business')return `<div class="visual-title">Business school positioning</div><div class="canvas">${svg(line(6,348,102,548,102)+line(6,348,252,548,252)+line(6,348,402,548,402))}${box(2,'accent round',48,128,300,270,'Responsible<br>GenAI Use')}${box(3,'',548,44,310,126,'Managerial<br>Judgment')}${box(4,'',548,194,310,126,'Critical<br>Thinking')}${box(5,'',548,344,310,126,'Career<br>Preparedness')}</div><div class="caption reveal" data-step="7"><b>Angle:</b> management education can link readiness to decision workflows.</div>`;
+return `<div class="visual-title">Working model</div><div class="canvas">${svg(line(3,300,145,360,145)+line(4,300,360,360,360)+line(5,580,250,640,250))}${box(2,'',40,80,260,130,'Inputs<span class="sub">literacy · self-efficacy · support</span>')}${box(4,'',40,290,260,140,'Moderators<span class="sub">discipline · faculty integration · policy clarity</span>')}${box(3,'accent',360,110,220,270,'Mediators<span class="sub">responsible use · critical evaluation</span>')}${box(5,'',640,185,250,140,'Outcomes<span class="sub">learning · employability · confidence</span>')}</div><div class="caption reveal" data-step="6"><b>Testable claim:</b> readiness matters when it changes evaluation behavior.</div>`;
+}
+function slideHTML(sl,i){return `<section class="slide" id="slide-${i+1}" style="--accent:${sl.a};--accent-rgb:${sl.rgb}" aria-label="Slide ${i+1}: ${sl.t}"><div class="grid"></div><header><div>Innovation Analytics Lab · 2026</div><div class="count">${String(i+1).padStart(2,'0')} / ${String(slides.length).padStart(2,'0')}</div></header><div class="layout"><section><div class="kicker">${sl.k}</div><h1>${sl.t}</h1><p class="subtitle reveal" data-step="1">${sl.s}</p></section><section class="visual">${visual(sl)}</section></div><div class="hint">Click / Space: reveal · →: next · ←: previous</div><div class="progress"><i></i></div></section>`}
+function render(){stage.innerHTML=slides.map(slideHTML).join('');update()}function active(){return document.querySelector('.slide.active')}function maxStep(s){return [...s.querySelectorAll('.reveal')].reduce((m,e)=>Math.max(m,Number(e.dataset.step||0)),0)}function update(){[...document.querySelectorAll('.slide')].forEach((s,i)=>{s.classList.toggle('active',i===state.slide);if(i===state.slide){s.querySelectorAll('.reveal').forEach(e=>e.classList.toggle('visible',Number(e.dataset.step||0)<=state.reveal));const max=Math.max(1,maxStep(s));s.querySelector('.progress>i').style.width=`${((state.reveal+1)/(max+1))*100}%`}});document.title=`${slides[state.slide].t} — ${state.slide+1}/${slides.length}`;save()}function reveal(){if(editMode){showEditStatus('Edit mode is active: slide progression is paused. Turn Edit off to present.');return;}let max=maxStep(active());if(state.reveal<max)state.reveal++;else if(state.slide<slides.length-1){state.slide++;state.reveal=0}update()}function next(){if(editMode){showEditStatus('Edit mode is active: slide progression is paused.');return;}if(state.slide<slides.length-1){state.slide++;state.reveal=0;update()}}function prev(){if(editMode){showEditStatus('Edit mode is active: slide progression is paused.');return;}if(state.reveal>0)state.reveal--;else if(state.slide>0){state.slide--;state.reveal=maxStep(document.querySelectorAll('.slide')[state.slide])}update()}function reset(){if(editMode){showEditStatus('Edit mode is active: reveal reset is paused.');return;}state.reveal=0;update()}
+
+// Visual edit mode: drag boxes, save in localStorage. Lines/arrows are intentionally removed.
+const EDIT_KEY = 'ai-readiness-v9-no-arrows-visual-edits';
+let editMode = false;
+let editLayouts = loadEditLayouts();
+let dragState = null;
+
+function loadEditLayouts(){
+  try { return JSON.parse(localStorage.getItem(EDIT_KEY) || JSON.stringify(window.__AI_READINESS_EMBEDDED_LAYOUT__ || {})); }
+  catch { return {}; }
+}
+function saveEditLayouts(){ localStorage.setItem(EDIT_KEY, JSON.stringify(editLayouts)); }
+function showEditStatus(msg){
+  const el=document.getElementById('editStatus');
+  el.textContent=msg; el.classList.add('show');
+  clearTimeout(showEditStatus._t); showEditStatus._t=setTimeout(()=>el.classList.remove('show'),2600);
+}
+function elementKey(el){
+  const slide = el.closest('.slide');
+  const slideId = slide ? slide.id : 'unknown';
+  if(!el.dataset.editId){
+    const group = el.classList.contains('line') ? 'line' : 'node';
+    const peers=[...slide.querySelectorAll(group==='line'?'.line':'.node')];
+    el.dataset.editId = `${slideId}-${group}-${peers.indexOf(el)}`;
+  }
+  return el.dataset.editId;
+}
+function ensureLineHandles(){
+  document.querySelectorAll('svg.connector').forEach(svgEl=>{
+    svgEl.querySelectorAll('circle.edit-handle').forEach(h=>h.remove());
+    svgEl.querySelectorAll('line.line').forEach((ln,idx)=>{
+      elementKey(ln);
+      ['start','end'].forEach(which=>{
+        const c=document.createElementNS('http://www.w3.org/2000/svg','circle');
+        c.classList.add('edit-handle');
+        c.dataset.lineId=ln.dataset.editId;
+        c.dataset.which=which;
+        c.setAttribute('r','10');
+        c.setAttribute('cx', ln.getAttribute(which==='start'?'x1':'x2'));
+        c.setAttribute('cy', ln.getAttribute(which==='start'?'y1':'y2'));
+        svgEl.appendChild(c);
+      });
+    });
+  });
+}
+function syncHandlesForLine(line){
+  const svgEl=line.closest('svg');
+  svgEl.querySelectorAll(`circle.edit-handle[data-line-id="${line.dataset.editId}"]`).forEach(h=>{
+    const start=h.dataset.which==='start';
+    h.setAttribute('cx', line.getAttribute(start?'x1':'x2'));
+    h.setAttribute('cy', line.getAttribute(start?'y1':'y2'));
+  });
+}
+function applyEditLayouts(){
+  document.querySelectorAll('.node,.line').forEach(el=>{
+    const key=elementKey(el); const data=editLayouts[key]; if(!data) return;
+    if(el.classList.contains('node')){
+      if(Number.isFinite(data.left)) el.style.left=data.left+'px';
+      if(Number.isFinite(data.top)) el.style.top=data.top+'px';
+      if(Number.isFinite(data.width)) el.style.width=data.width+'px';
+      if(Number.isFinite(data.height)) el.style.height=data.height+'px';
+    } else if(el.classList.contains('line')){
+      ['x1','y1','x2','y2'].forEach(k=>{ if(Number.isFinite(data[k])) el.setAttribute(k, data[k]); });
+    }
+  });
+  ensureLineHandles();
+}
+function canvasPoint(svgEl, clientX, clientY){
+  const rect=svgEl.getBoundingClientRect();
+  const vb=svgEl.viewBox.baseVal;
+  return { x: (clientX-rect.left)*(vb.width/rect.width), y: (clientY-rect.top)*(vb.height/rect.height) };
+}
+function beginDrag(e){
+  if(!editMode) return;
+  const handle=e.target.closest('.edit-handle');
+  const node=e.target.closest('.node');
+  if(!handle && !node) return;
+  e.preventDefault(); e.stopPropagation();
+  if(handle){
+    const svgEl=handle.closest('svg'); const line=svgEl.querySelector(`line[data-edit-id="${handle.dataset.lineId}"]`);
+    dragState={type:'handle', handle, line, svgEl, which:handle.dataset.which};
+  } else if(node){
+    const rect=node.getBoundingClientRect(); const parentRect=node.offsetParent.getBoundingClientRect();
+    const left=parseFloat(node.style.left)||node.offsetLeft; const top=parseFloat(node.style.top)||node.offsetTop;
+    dragState={type:'node', node, startX:e.clientX, startY:e.clientY, left, top, scaleX: parentRect.width/node.offsetParent.offsetWidth, scaleY: parentRect.height/node.offsetParent.offsetHeight};
+  }
+}
+function onDrag(e){
+  if(!editMode || !dragState) return;
+  e.preventDefault();
+  if(dragState.type==='node'){
+    const dx=(e.clientX-dragState.startX)/dragState.scaleX;
+    const dy=(e.clientY-dragState.startY)/dragState.scaleY;
+    const left=Math.round(dragState.left+dx); const top=Math.round(dragState.top+dy);
+    dragState.node.style.left=left+'px'; dragState.node.style.top=top+'px';
+  } else if(dragState.type==='handle'){
+    const pt=canvasPoint(dragState.svgEl,e.clientX,e.clientY);
+    const x=Math.round(pt.x), y=Math.round(pt.y);
+    if(dragState.which==='start'){dragState.line.setAttribute('x1',x); dragState.line.setAttribute('y1',y);} else {dragState.line.setAttribute('x2',x); dragState.line.setAttribute('y2',y);}
+    dragState.handle.setAttribute('cx',x); dragState.handle.setAttribute('cy',y);
+  }
+}
+function endDrag(){
+  if(!dragState) return;
+  if(dragState.type==='node'){
+    const node=dragState.node; const key=elementKey(node);
+    editLayouts[key]={...(editLayouts[key]||{}), left:parseFloat(node.style.left)||node.offsetLeft, top:parseFloat(node.style.top)||node.offsetTop, width:node.offsetWidth, height:node.offsetHeight};
+  } else if(dragState.type==='handle'){
+    const ln=dragState.line; const key=elementKey(ln);
+    editLayouts[key]={...(editLayouts[key]||{}), x1:+ln.getAttribute('x1'), y1:+ln.getAttribute('y1'), x2:+ln.getAttribute('x2'), y2:+ln.getAttribute('y2')};
+    syncHandlesForLine(ln);
+  }
+  saveEditLayouts(); dragState=null;
+}
+function setEditMode(on){
+  editMode=on; document.body.classList.toggle('edit-mode',editMode);
+  document.getElementById('editToggle').classList.toggle('on',editMode);
+  if(editMode){ ensureLineHandles(); applyEditLayouts(); showEditStatus('Visual edit mode ON: drag boxes or white endpoint handles. Click Save when done.'); }
+  else showEditStatus('Visual edit mode OFF.');
+}
+document.addEventListener('mousedown', beginDrag, true);
+document.addEventListener('mousemove', onDrag, true);
+document.addEventListener('mouseup', endDrag, true);
+document.getElementById('editToggle').addEventListener('click', e=>{e.stopPropagation(); setEditMode(!editMode);});
+document.getElementById('editSave').addEventListener('click', e=>{e.stopPropagation(); saveEditLayouts(); showEditStatus('Saved visual edits to this browser via localStorage.');});
+document.getElementById('editReset').addEventListener('click', e=>{e.stopPropagation(); if(confirm('Reset all saved visual edits for this deck?')){editLayouts={}; saveEditLayouts(); location.reload();}});
+document.getElementById('editExport').addEventListener('click', e=>{e.stopPropagation(); const text=JSON.stringify(editLayouts,null,2); navigator.clipboard?.writeText(text); console.log('VISUAL_EDIT_LAYOUT_JSON', text); showEditStatus('Layout JSON copied to clipboard and printed to console.');});
+
+function makeEditedHtml(){
+  saveEditLayouts();
+  let html='<!doctype html>\n'+document.documentElement.outerHTML;
+  const payload='window.__AI_READINESS_EMBEDDED_LAYOUT__ = '+JSON.stringify(editLayouts,null,2)+';';
+  // Inject embedded layout after EDIT_KEY declaration. The loaded file will use it to seed localStorage if empty.
+  html=html.replace("const EDIT_KEY = 'ai-readiness-v9-no-arrows-visual-edits';", "const EDIT_KEY = 'ai-readiness-v9-no-arrows-visual-edits';\n"+payload+"\ntry{if(!localStorage.getItem(EDIT_KEY) && window.__AI_READINESS_EMBEDDED_LAYOUT__){localStorage.setItem(EDIT_KEY, JSON.stringify(window.__AI_READINESS_EMBEDDED_LAYOUT__));}}catch(e){}")
+    .replace(/<script>\s*document\.body\.appendChild\(document\.createElement\('script'\)\);\s*<\/script>/g,'');
+  return html;
+}
+function downloadEditedHtml(){
+  const html=makeEditedHtml();
+  const blob=new Blob([html],{type:'text/html;charset=utf-8'});
+  const url=URL.createObjectURL(blob);
+  const a=document.createElement('a');
+  a.href=url;
+  a.download='ai-readiness-slide-deck-edited.html';
+  document.body.appendChild(a); a.click(); a.remove();
+  setTimeout(()=>URL.revokeObjectURL(url),1000);
+  showEditStatus('Downloaded edited HTML with layout embedded. Use that file for presentation.');
+}
+document.getElementById('editDownload').addEventListener('click', e=>{e.stopPropagation(); downloadEditedHtml();});
+
+
+document.getElementById('reveal').onclick=reveal;document.getElementById('next').onclick=next;document.getElementById('prev').onclick=prev;document.getElementById('reset').onclick=reset;stage.onclick=(e)=>{ if(editMode){ e.stopPropagation(); return; } reveal(); };
+document.addEventListener('keydown',e=>{
+  if(editMode){
+    if(e.key==='Escape'){e.preventDefault(); setEditMode(false);}
+    else if([' ','Enter','ArrowRight','PageDown','ArrowLeft','PageUp','Home','End'].includes(e.key)){e.preventDefault(); showEditStatus('Edit mode is active: presentation navigation is paused. Press Esc or Edit to return to presentation mode.');}
+    return;
+  }
+  if([' ','Enter','ArrowRight','PageDown'].includes(e.key)){e.preventDefault();reveal()}
+  else if(['ArrowLeft','PageUp'].includes(e.key)){e.preventDefault();prev()}
+  else if(e.key.toLowerCase()==='r'){e.preventDefault();reset()}
+  else if(e.key==='Home'){state={slide:0,reveal:0};update()}
+  else if(e.key==='End'){state={slide:slides.length-1,reveal:0};update()}
+});
+render();
+ensureLineHandles();
+applyEditLayouts();
+</script>
+</body>
+</html>
