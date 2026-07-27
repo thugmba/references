@@ -184,13 +184,14 @@ def generate_docs() -> None:
         "",
         "## Courses",
         "",
-        "| Course | Total | Academic papers | Articles / reports |",
+        "| Course | Total | Academic papers / books | Articles / reports |",
         "|---|---:|---:|---:|",
     ]
     for c in courses:
+        academic_or_books = c['counts'].get('Academic Papers', 0) + c['counts'].get('Books and Textbooks', 0)
         index.append(
             f"| [{c['course']}]({c['slug']}.md) | {len(c['refs'])} | "
-            f"{c['counts'].get('Academic Papers', 0)} | {c['counts'].get('Articles and Reports', 0)} |"
+            f"{academic_or_books} | {c['counts'].get('Articles and Reports', 0)} |"
         )
     (DOCS / "index.md").write_text("\n".join(index) + "\n", encoding="utf-8")
 
@@ -210,7 +211,7 @@ def generate_docs() -> None:
             if c["counts"].get(sec):
                 lines.append(f"| {sec} | {c['counts'][sec]} |")
         if not c["refs"]:
-            lines.append("| Substantive references | 0 |")
+            lines.append("| No references yet | 0 |")
         lines.append("")
 
         for sec in SECTION_ORDER:
