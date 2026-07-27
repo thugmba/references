@@ -8,7 +8,6 @@ _Total references: 6_
 | Category | Count |
 |---|---:|
 | Books and Textbooks | 6 |
-| Substantive references | 6 |
 
 ## Books and Textbooks
 
